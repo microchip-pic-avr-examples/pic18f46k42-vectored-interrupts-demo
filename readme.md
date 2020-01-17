@@ -1,7 +1,6 @@
 # Vectored Interrupts Demo using PIC18F46K42
 How to use the vectored interrupt module
 
-![](https://youtu.be/n9SXI12AuEk){align=center}
 # Objective
 The objective of this project is to demonstrate how to use MPLAB Code Configurator (MCC) in the MPLAB Xpress IDE to set up and use Vectored Interrupts with different peripherals.
 
