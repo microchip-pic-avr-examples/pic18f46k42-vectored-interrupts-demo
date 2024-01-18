@@ -7,7 +7,7 @@
         "version": "2.0.0",
         "displayName": "Vectored Interrupts Demo using PIC18F46K42",
         "projectName": "pic18f46k42-vectored-interrupts-demo",
-        "shortDescription": "",
+        "shortDescription": "Example to demonstrate Vectored Interrupts using PIC18F46K42",
         "ide": {
             "name": "MPLAB X",
             "semverRange": ">=3.75.0"
@@ -36,7 +36,7 @@
                 "versionRange": "*"
             }
         },
-        "author": "",
+        "author": "Microchip",
         "peripherals": [
             "TMR","INT"
         ],
